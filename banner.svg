@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110">
+<rect width="900" height="110" fill="#f7f4ed"/>
+<rect x="0" y="0" width="900" height="2" fill="#14110e"/>
+<text x="52" y="30" font-family="ui-monospace,'SFMono-Regular',Consolas,'Courier New',monospace" font-size="10" fill="#8a8272" letter-spacing="2.2">SOFTWARE ENGINEERING</text>
+<text x="848" y="30" font-family="ui-monospace,'SFMono-Regular',Consolas,'Courier New',monospace" font-size="10" fill="#8a8272" letter-spacing="2.2" text-anchor="end">CLASS OF 2028</text>
+<text x="52" y="72" font-family="Georgia,'Times New Roman','Songti SC',serif" font-size="30" fill="#14110e">Lethey</text>
+<text x="52" y="94" font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#8a8272">Java 后端 · RAG &amp; LLM · AI Agent</text>
+<rect x="848" y="50" width="2" height="46" fill="#b4451f"/>
+</svg>
