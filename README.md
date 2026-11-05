@@ -5,8 +5,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
-  <img src="./banner.svg" width="100%" alt="header">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xxj-ui/xxj-ui/main/banner-dark.svg">
+  <img src="https://raw.githubusercontent.com/xxj-ui/xxj-ui/main/banner.svg" width="100%" alt="header">
 </picture>
 
 <picture>
